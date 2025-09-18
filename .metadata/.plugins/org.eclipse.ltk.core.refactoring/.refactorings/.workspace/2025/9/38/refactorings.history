@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;assembly_mov_mvn/assembly_mov_mvn Debug (1).launch&apos;" deleteContents="false" description="Delete resource &apos;assembly_mov_mvn/assembly_mov_mvn Debug (1).launch&apos;" element1="/assembly_mov_mvn/assembly_mov_mvn Debug (1).launch" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1758002339018"/>&#x0A;<refactoring comment="Delete resource &apos;assembly_led&apos;" deleteContents="true" description="Delete resource &apos;assembly_led&apos;" element1="/assembly_led" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1758187207944"/>
+</session>
